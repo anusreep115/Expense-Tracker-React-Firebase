@@ -6,7 +6,7 @@ import { onAuthStateChanged, signOut } from 'firebase/auth';
 import Auth from './components/Auth';
 import ExpenseList from './components/ExpenseList';
 import Summary from './components/Summary';
-import Addexpense from './components/Addexpense';
+import Addexpense from './components/AddExpense';
 import AddIncome from './components/AddIncome';
 
 
