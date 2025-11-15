@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.gray-box {
+  background-color: #2e2e2e;
+  color: #ffffff;
+}
