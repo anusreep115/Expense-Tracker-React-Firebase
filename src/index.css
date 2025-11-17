@@ -1,4 +1,7 @@
 @import "tailwindcss";
+*{
+  font-family: "Lora", serif;
+}
 
 .gray-box {
   background-color: #2e2e2e;
